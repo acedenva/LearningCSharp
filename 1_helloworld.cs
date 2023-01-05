@@ -3,7 +3,7 @@
 //Eine Klasse
 class myClass
 {
-	// Eine Hauptmethode
+	// Eine Main Methode, die jedes C# Programm braucht. Main ist ein vordefinierter Begriff  
 	static void Main()
 	{
 		System.Console.WriteLine("Hallo Welt");
